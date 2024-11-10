@@ -1,4 +1,4 @@
-# [Netlify Live Link](https://tubular-taiyaki-698e45.netlify.app/)
+# [Netlify Live Link](https://transcendent-sunflower-df40bd.netlify.app/)
 
 # [GitHub Pages Live Link](https://hoken92.github.io/prac_blog_html/)
 
