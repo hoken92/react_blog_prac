@@ -38,6 +38,7 @@ footer {
 .nav-items a {
   color: lightgray;
   font-size: 20px;
+  text-decoration: underline;
 }
 
 .footer-items a {
