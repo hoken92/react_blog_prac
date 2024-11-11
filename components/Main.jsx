@@ -23,11 +23,11 @@ function Main() {
   ];
 
   return (
-    <>
+    <main>
       {articleInfo.map((article, i) => {
         return <Article key={i} article={article} />;
       })}
-    </>
+    </main>
   );
 }
 

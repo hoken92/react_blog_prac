@@ -15,10 +15,10 @@ function Footer() {
   ];
 
   return (
-    <>
+    <footer>
       <Navigation navItems={navItems} isNav={false} label="Footer Navigation" />
       <CopyRight id="copyright" publisher={author} />
-    </>
+    </footer>
   );
 }
 

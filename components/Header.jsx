@@ -12,10 +12,10 @@ function Header() {
   ];
 
   return (
-    <>
+    <header>
       <Title title="Sartre's List" subtitle="Better-Dressed People" />
       <Navigation navItems={navItems} isNav={true} label="Main Navigation" />
-    </>
+    </header>
   );
 }
 
